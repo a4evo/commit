@@ -1,0 +1,62 @@
+[
+  {
+    "name": "London is the capital of Great Britain?",
+    "options": [
+      "Yes",
+      "Of course",
+      "For sure",
+      "Exactly"
+    ],
+    "answer": "1"
+  },
+  {
+    "name": "Why sky is blue?",
+    "options": [
+      "Because",
+      "That's why!",
+      "Why not?",
+      "No, it's red."
+    ],
+    "answer": "1"
+  },
+  {
+    "name": "Cersei Lannister is evil in ...",
+    "options": [
+      "killing people",
+      "ruling",
+      "rising kids",
+      "drinking wine"
+    ],
+    "answer": "3"
+  },
+  {
+    "name": "Who let the dogs out?",
+    "options": [
+      "Baha men",
+      "Baha men",
+      "Sansa Stark",
+      "Baha Men"
+    ],
+    "answer": "2"
+  },
+  {
+    "name": "Winter is...",
+    "options": [
+      "freezing",
+      "coming",
+      "cooling",
+      "winter"
+    ],
+    "answer": "1"
+  },
+  {
+    "name": "Zombies or aliens?",
+    "options": [
+      "Zombies",
+      "Aliens",
+      "Jackie Chan",
+      "Clowns"
+    ],
+    "answer": "3"
+  }
+]
